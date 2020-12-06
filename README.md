@@ -1,6 +1,15 @@
 <h1 align="center"> Hey 👋🏽, I'm Kamber Kamberović </h1>
 
 <br/>
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at State University of Novi Pazar.
+- 📚 &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
 <h2 align="center">
     I create user experiences that are:
 </h2>
