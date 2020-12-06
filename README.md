@@ -1,6 +1,6 @@
 <h1 align="center"> Hey 👋🏽, I'm Kamber Kamberović </h1>
 
-<br/>
+---
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -9,6 +9,8 @@
 - 📚 &nbsp; I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+
+---
 
 <h2 align="center">
     I create user experiences that are:
@@ -24,7 +26,7 @@
 - **SEO Optimized 🔍**
 - **Crafted with pixel-perfect code ✨**
 
-
+---
 <br/>
 <br/>
 
@@ -32,6 +34,7 @@
 <h2 align="center">
   Here are some technologies I use at work:
 </h2>
+---
 <p align="center">
 <code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
@@ -48,6 +51,7 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
 </p>
 
+---
 <br/>
 
 <h2 align="center">
@@ -57,7 +61,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamberk&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Kamber's Public Github Stats">
 </p>  
-
+---
 <br/>
 
 <h2 align="center">
@@ -66,6 +70,7 @@
 <h3 align="center">
   I speak English too, Get in touch.
 </h3>
+---
 <br/>
 <p align="center">
  <a href="mailto:kamberkamberovic98@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
