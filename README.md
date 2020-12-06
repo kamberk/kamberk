@@ -61,7 +61,7 @@
 <p align="center">
  <a href="mailto:kamberkamberovic98@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/kamberk"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://www.facebook.com/Kambo.kamber"><img src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/fb.png" width="30px" alt="facebook"></a> &nbsp; &nbsp;
+   <a href="https://www.facebook.com/Kambo.kamber"><img src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/fb.png" width="40px" alt="facebook"></a> &nbsp; &nbsp;
    <a href="https://www.instagram.com/kambo98/"><img src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/ig.png" width="30px" alt="instagram"></a> &nbsp; &nbsp;
 </p>
 
