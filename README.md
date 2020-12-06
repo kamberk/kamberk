@@ -15,7 +15,7 @@
 <h2 align="center">
     I create user experiences that are:
 </h2>
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<img align="right" alt="Person coding gif" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/coding.gif" width="200" />
 
 - **Responsive ✅**
 - **Intuitive 🤩**
@@ -38,19 +38,19 @@
 ---
 
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/flutter.png"></code> &nbsp;&nbsp;
 </p>
 
 <br/>
 
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/css.png"></code>
 </p>
 
 ---
@@ -85,4 +85,4 @@
 ---
 
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
+<img align="center" alt="Code gif" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/coding-freak.gif" width="100%" />
