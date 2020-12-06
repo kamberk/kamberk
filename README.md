@@ -74,7 +74,6 @@
   I speak English too, Get in touch.
 </h3>
 
----
 <br/>
 <p align="center">
  <a href="mailto:kamberkamberovic98@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
