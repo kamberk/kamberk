@@ -85,4 +85,10 @@
 ---
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamberk&label=Profile%20views&color=0e75b6&style=flat" alt="kamberk" /> </p>
+
+
+---
+
+
 <img align="center" alt="Code gif" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/coding-freak.gif" width="100%" />
