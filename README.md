@@ -38,7 +38,7 @@
 ---
 
 <p align="center">
-<code><img height="70" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/next.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/react.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/redux.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/kamberk/memories/blob/main/Frontend/src/images/LogosForReadme/flutter.png"></code> &nbsp;&nbsp;
